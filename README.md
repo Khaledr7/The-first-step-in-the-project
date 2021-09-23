@@ -30,3 +30,8 @@ We thought to create a website and developed it to the point that it could ident
 so it became easier to use and more efficient, which reduces the user’s error rate.
 
 ## Solution
+ * Many solutions appeared to us, most of them are very complex to solve our problem,
+but we found a simple and easy to implement solution for us so that we can recognise the object,
+which is recognition by dimensions.
+## Methodology 
+ * we used open-cv 
